@@ -1,0 +1,57 @@
+{
+  "products": [
+    {
+      "name": "sanmsung galaxy s56",
+      "price": "7000000",
+      "desc": "RAM 8G - ROM 500GB rrrr",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/274360/samsung-galaxy-a13-xanh-thumb-1-600x600.jpg",
+      "id": 8,
+      "categoryId": 2
+    },
+    {
+      "name": "Iphone 13 promax",
+      "price": "222",
+      "desc": "e3e3r3r3",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/274360/samsung-galaxy-a13-xanh-thumb-1-600x600.jpg",
+      "id": 10,
+      "categoryId": 2
+    },
+    {
+      "name": "samsung galaxy s64",
+      "price": "32323232",
+      "desc": "rgrhrhr",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/274360/samsung-galaxy-a13-xanh-thumb-1-600x600.jpg",
+      "id": 11,
+      "categoryId": 3
+    },
+    {
+      "name": "Iphone 13 promax",
+      "price": "324242",
+      "desc": "rẻtetet",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/274360/samsung-galaxy-a13-xanh-thumb-1-600x600.jpg",
+      "id": 12,
+      "categoryId": 1
+    },
+    {
+      "name": "Iphone 13 promax",
+      "price": "Iphone 13 promax",
+      "desc": "sứdw",
+      "image": "iphone 13 ",
+      "id": 13
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Samsung"
+    },
+    {
+      "id": 2,
+      "name": "Iphone"
+    },
+    {
+      "id": 3,
+      "name": "Nokia"
+    }
+  ]
+}
